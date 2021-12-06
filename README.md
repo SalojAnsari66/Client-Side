@@ -1,2 +1,2 @@
 # Client-Side
-This is front-end site by using React js
+This is front-end movie site by using React js
